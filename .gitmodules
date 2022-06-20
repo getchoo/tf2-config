@@ -1,0 +1,3 @@
+[submodule "custom/clovervidias-captions"]
+	path = custom/clovervidias-captions
+	url = https://github.com/clovervidia/clovervidias-captions
